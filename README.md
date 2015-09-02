@@ -1,6 +1,6 @@
-# Combating Smells: Extract Method 
- 
-##Summary 
+# Combating Smells: Extract Method
+
+##Summary
 As we become more experienced developers, we'll begin to develop a sense for problems in code.  We'll notice qualities in the code that give us pause.  Something about the code won't look or feel right.  We call these qualities code smells.
 
 Code smells are signals that portions of code could be improved. Identifying smelly code is not enough because all code has smells. Choosing which smells to address and which to ignore is a key survival skill.  When we do decide to fix a smell, we need to know how to improve the code.
@@ -14,8 +14,8 @@ Before we get into our refactoring, we'll do a little bit of reading on code sme
 
 
 ### Release 0: Extract a Method
-In the reference list that we read through in the *Pre-release* section, a number of code smells could be combatted by extracting a method out of a chunk of our code.
- 
+In the reference list that we read through in the *Pre-release* section, a number of code smells could be combated by extracting a method out of a chunk of our code.
+
 In the file `refactor.rb`, list each smell that can be dealt with by the *Extract Method* refactoring.
 
 
